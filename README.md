@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Diego Santos👋
 
 [![Blog{:target="_blank"}](https://img.shields.io/website?label=DiegoSantos.com&style=for-the-badge&url=https://blog.webtopo.com/)](https://blog.webtopo.com)
-[![LinkedIn{:target="_blank"}](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-oliveira-dos-santos-a88a81272/)
 
 ![Diego Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=diegosantos-engtads&show_icons=true&theme=radical)
 
