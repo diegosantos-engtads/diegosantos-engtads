@@ -1,26 +1,19 @@
-### Olá! Eu sou o Diego Santos👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1d2f7c&height=120&section=header"/>
 
-[![Blog{:target="_blank"}](https://img.shields.io/website?label=DiegoSantos.com&style=for-the-badge&url=https://blog.webtopo.com/)](https://blog.webtopo.com)
-
-![Diego Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=diegosantos-engtads&show_icons=true&theme=radical)
-
-### Tecnologias de estudos realizados com certificações.
-
-<div>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img align="center" alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
-    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <p>
-    </p>
-    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-    <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-    <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-    <img align="center" alt="NODE.JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-    <img align="center" alt="MySql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0d71b2&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+Nome+é+Geovani+Cordeiro+;Sou+Estudante+de+Engenharia+de+Software+;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=geovanigcs&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Geovani Cordeiro github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovanigcs&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
-<div>
-</br>
-    <h4>Desde janeiro de 2023, estou dedicado aos estudos no curso de Tecnologia em Análise e Desenvolvimento de Sistemas. E até o período atual, adquiri habilidades básicas nas linguagens informadas acima, as quais foram validadas por meio de certificações.</h4>
-</p>
-</div>
+<h1 align="center">Tecnologias que eu uso no meu dia</h1>
+<div  align="center"> 
+    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+     <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+     <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="Next.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+    <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img align="center" height="30" width="40" alt="Django" src="https://static.djangoproject.com/img/logos/django-logo-positive.svg">
+   </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1d2f7c&height=120&section=footer"/>
