@@ -47,7 +47,6 @@
 
 💻 Atualmente sou estagiário de desenvolvimento de software na **Unicamp**, atuando em projetos internos com foco em otimização de sistemas e automações.<br>
 🎓 Estudante do **5º semestre** de Análise e Desenvolvimento de Sistemas na **Anhanguera Ouro Verde**.<br>
-🎨 Venho da área de design gráfico e hoje estou em transição para o desenvolvimento full stack.<br>
 🌱 Me interesso por soluções eficientes, acessíveis e que gerem impacto positivo na vida das pessoas.
 
 ---
