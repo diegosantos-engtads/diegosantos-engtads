@@ -11,7 +11,7 @@
 
 ---
 
-### 🛠️ Tecnologias que estudo e utilizo
+### Tecnologias que estudo e utilizo
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -30,7 +30,7 @@
 
 ---
 
-### 🚀 Habilidades complementares
+### Habilidades complementares
 
 - Consumo e desenvolvimento de **APIs REST**
 - Conhecimentos em **Git** e versionamento com GitHub
@@ -42,7 +42,7 @@
 
 ---
 
-### ✍️ Sobre mim
+### Sobre mim
 
 💻 Atualmente sou estagiário de desenvolvimento de software na **Unicamp**, atuando em projetos internos com foco em otimização de sistemas e automações.<br>
 🎓 Estudante do **5º semestre** de Análise e Desenvolvimento de Sistemas na **Anhanguera Ouro Verde**.<br>
