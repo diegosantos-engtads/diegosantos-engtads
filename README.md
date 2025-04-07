@@ -12,7 +12,6 @@
 ---
 
 ### Tecnologias que estudo e utilizo
-
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -44,17 +43,17 @@
 
 ### Sobre mim
 
-💻 Atualmente sou estagiário de desenvolvimento de software na **Unicamp**, atuando em projetos internos com foco em otimização de sistemas e automações.<br>
+💻 Estagiário de desenvolvimento de software na **Unicamp**, com foco em otimização de sistemas internos.<br>
 🎓 Estudante do **5º semestre** de Análise e Desenvolvimento de Sistemas na **Anhanguera Ouro Verde**.<br>
-🌱 Me interesso por soluções eficientes, acessíveis e que gerem impacto positivo na vida das pessoas.
+🌱 Interessado em soluções escaláveis e eficientes que gerem impacto positivo.
 
 ---
 
-### 📫 Onde me encontrar:
+### Onde me encontrar:
 
-- 🌐 [Blog - em construção]()
 - 💼 [LinkedIn](https://www.linkedin.com/in/diego-santos-a88a81272)
-- 📧 E-mail: (diegosantos.engtads@gmail.com)
+- 📧 E-mail: diegosantos.engtads@gmail.com
+- 🌐 Blog (em construção)
 
 ---
 
