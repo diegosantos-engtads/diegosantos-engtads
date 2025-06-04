@@ -1,6 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1d2f7c&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=0D71B2&center=true&vCenter=true&width=1000&lines=Olá!+Eu+sou+o+Diego+Santos+👋;Estudante+de+Análise+e+Desenvolvimento+de+Sistemas;Estagiário+em+Desenvolvimento+de+Software+na+Unicamp;Apaixonado+por+tecnologia+e+inovação!)](https://git.io/typing-svg)
+[![Typing SVG]([https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=0D71B2&center=true&vCenter=true&width=1000&lines=Olá!+Eu+sou+o+Diego+Santos+👋;Estudante+de+Análise+e+Desenvolvimento+de+Sistemas;Estagiário+em+Desenvolvimento+de+Software+na+Unicamp;Apaixonado+por+tecnologia+e+inovação!](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0D71B2&center=true&vCenter=true&width=1000&lines=Olá!+Eu+sou+o+Diego+Santos+👋;Graduado+em+Análise+e+Desenvolvimento+de+Sistemas;Ex-Estagiário+em+Desenvolvimento+de+Software+na+Unicamp;Apaixonado+por+tecnologia+e+inovação!)
+)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/diegosantos-engtads">
@@ -53,7 +54,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/diego-santos-a88a81272)
 - 📧 E-mail: diegosantos.engtads@gmail.com
-- 🌐 Blog (em construção)
+- 🌐 Blog ([em construção](https://tips-blog-three.vercel.app/))
 
 ---
 
