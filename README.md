@@ -9,8 +9,6 @@
   </a>
 </div>
 
-
-
 ---
 
 ### Tecnologias que estudo e utilizo
