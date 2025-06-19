@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1d2f7c&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0D71B2&center=true&vCenter=true&width=1000&lines=Meu+nome+é+Diego+Santos+👨‍💻;Sou+desenvolvedor+de+software;Graduado+em+Análise+e+Desenvolvimento+de+Sistemas)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0D71B2&center=true&vCenter=true&width=1000&lines=Olá,+sou+Diego+Santos,+Desenvolvedor+de+software,+graduado+em+Análise+e+Desenvolvimento+de+Sistemas)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/diegosantos-engtads">
