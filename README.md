@@ -11,7 +11,7 @@
 
 ---
 
-### Tecnologias que estudo e utilizo
+### 🚀 Tecnologias que estudo e utilizo
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -29,31 +29,32 @@
 
 ---
 
-### Habilidades complementares
+### 🛠️ Habilidades complementares
 
 - Consumo e desenvolvimento de **APIs REST**
 - Conhecimentos em **Git** e versionamento com GitHub
 - Organização de projetos com **metodologias ágeis**
-- Estruturação de **banco de dados relacional**
+- Estruturação de **bancos de dados relacionais e NoSQL**
 - Criação de interfaces responsivas e acessíveis
 - Boas práticas em desenvolvimento web
 - Curioso e sempre aprendendo novas tecnologias!
 
 ---
 
-### Sobre mim
+### 👨‍💻 Sobre mim
 
-💻 Estagiário de desenvolvimento de software na **Unicamp**, com foco em otimização de sistemas internos.<br>
-🎓 Estudante do **5º semestre** de Análise e Desenvolvimento de Sistemas na **Anhanguera Ouro Verde**.<br>
-🌱 Interessado em soluções escaláveis e eficientes que gerem impacto positivo.
+💻 Sou **Desenvolvedor de Software**, apaixonado por tecnologia.  
+🎓 Graduado em **Análise e Desenvolvimento de Sistemas**.  
+🌱 Tenho experiência prática em projetos com **Next.js, React, TypeScript, Node.js e MySQL**, sempre buscando evoluir minhas habilidades e criar aplicações úteis.  
+🚀 Meu objetivo é contribuir para projetos inovadores que façam a diferença.  
 
 ---
 
-### Onde me encontrar:
+### 🌐 Onde me encontrar:
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/diego-santos-a88a81272)
-- 📧 E-mail: diegosantos.engtads@gmail.com
-- 🌐 Blog ([em construção](https://tips-blog-three.vercel.app/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/diego-santos-a88a81272)  
+- 📧 E-mail: diegosantos.engtads@gmail.com  
+- 🌐 Blog ([em construção](https://tips-blog-three.vercel.app/))  
 
 ---
 
