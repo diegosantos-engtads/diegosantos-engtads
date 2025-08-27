@@ -11,7 +11,7 @@
 
 ---
 
-### 🚀 Tecnologias que estudo e utilizo
+### Tecnologias que estudo e utilizo
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -29,7 +29,7 @@
 
 ---
 
-### 🛠️ Habilidades complementares
+### Habilidades complementares
 
 - Consumo e desenvolvimento de **APIs REST**
 - Conhecimentos em **Git** e versionamento com GitHub
@@ -41,7 +41,7 @@
 
 ---
 
-### 👨‍💻 Sobre mim
+### Sobre mim
 
 💻 Sou **Desenvolvedor de Software**, apaixonado por tecnologia.  
 🎓 Graduado em **Análise e Desenvolvimento de Sistemas**.  
@@ -50,7 +50,7 @@
 
 ---
 
-### 🌐 Onde me encontrar:
+### Onde me encontrar:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/diego-santos-a88a81272)  
 - 📧 E-mail: diegosantos.engtads@gmail.com  
