@@ -2,12 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0D71B2&center=true&vCenter=true&width=1000&lines=Olá,+sou+Diego+Santos+👋;Sou+Desenvolvedor+de+software;Graduado+em+Análise+e+Desenvolvimento+de+Sistemas)](https://git.io/typing-svg)
 
-<div align="center">
-  <a href="https://github.com/diegosantos-engtads">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegosantos-engtads&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegosantos-engtads&layout=compact&langs_count=7&theme=radical"/>
-  </a>
-</div>
 
 ---
 
